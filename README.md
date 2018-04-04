@@ -1,2 +1,2 @@
 # Farewell-Attack
-Simulates Farewell attack for WiFi 
+Java program works as an WiFi Access Point (or router).
